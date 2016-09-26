@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+.menu {
+	color: #9E9E9E;
+	opacity: 6.0;
+	text-align: center;
+	position: fixed;
+	font-family: Raleway, helvetica, sans-serif;
+	font-weight:lighter;
+	padding: 20px 0 20px 0;
+	background-color: #EBE4DE;
+	width: 100%;
+	letter-spacing: 1.5px;	
+
+}
+
+.menu li{
+    list-style: none;
+	margin-right: 50px;
+    display: inline;
+    font-family: Raleway, helvetica, sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+}
+
+a {
+	color: #9E9E9E;
+}
+a:hover{
+	color:#353535
+	}
+/* Jeg farver menupunktet, så man kan se hvilken side man er inde på */
+.active {
+	color: white;
+	
+}
+
+	
